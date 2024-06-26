@@ -8,6 +8,6 @@ The Personal Information Management Application (pimapp) is a C program that man
    gcc pimapp.c -o pimapp
    ```
 2. Run the compiled executable with the command:
-  ```
-  ./pimapp <dbfile>
-  ```
+     ```
+     ./pimapp <dbfile>
+     ```
