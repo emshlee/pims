@@ -184,7 +184,6 @@ void freeMemory(struct PersonalInfoRecord *pirp) {
 
 
 
-// The main of your application
 int main(int argc, char *argv[])
 {
 	// Making a linkedlist
